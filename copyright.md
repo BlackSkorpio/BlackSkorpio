@@ -1,8 +1,4 @@
-<h1 align="center">
-
-![Bjarne Varoystrand - Photographer](logo.svg)
-
-</h1>
+<img src="/BlackSkorpio/BlackSkorpio/raw/master/logo.svg" alt="Bjarne Varoystrand - Photographer" style="max-height:200px">
 
 # Photo usage and other legal mumbo jumbo :bowtie:
 
