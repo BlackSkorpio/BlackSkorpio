@@ -1,6 +1,6 @@
 # Photo usage and other legal mumbo jumbo :bowtie:
 
-## ©
+<h2 align="center">©</h2>
 
 _I work hard at creating these photos. I really hope you like them and come back often to see more images as time goes by. However, copying, hotlinking and downloading is stealing and I really hope that you won’t do these things. That being said, here is the legalese version that I hate to post but trust that you will respect:_
 
@@ -31,7 +31,7 @@ Use of this web site constitutes acceptance with the above copyright notice and 
 
 ## The short version:
 
-_ Please ask me if you want to use my photos or anything I’ve written.
+_Please ask me if you want to use my photos or anything I’ve written.
 
 It’s the nice, honest, and right thing to do.
 
