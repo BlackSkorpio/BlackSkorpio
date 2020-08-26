@@ -1,5 +1,3 @@
-<img src="/BlackSkorpio/BlackSkorpio/raw/master/logo.svg" alt="Bjarne Varoystrand - Photographer" style="max-height:200px">
-
 # Photo usage and other legal mumbo jumbo :bowtie:
 
 <h2 align="center">©</h2>
