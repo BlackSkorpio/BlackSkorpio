@@ -31,10 +31,10 @@ Use of this web site constitutes acceptance with the above copyright notice and 
 
 ## The short version:
 
-_Please ask me if you want to use my photos or anything I’ve written.
+_Please ask me if you want to use my photos or anything I’ve written._
 
 It’s the nice, honest, and right thing to do.
 
 Thanks!
 
-:relaxed: _
+:relaxed:
