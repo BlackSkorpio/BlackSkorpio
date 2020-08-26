@@ -1,4 +1,4 @@
-<h1 align="center">![Bjarne Varöystrand - Photographer](logo.svg)</h1>
+<h1 align="center"> ![Bjarne Varöystrand - Photographer](logo.svg) </h1>
 
 # Photo usage and other legal mumbo jumbo :bowtie:
 
