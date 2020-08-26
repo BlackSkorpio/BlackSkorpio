@@ -1,0 +1,15 @@
+<svg id="Bjarne_Varoystrand" data-name="Bjarne Varöystrand - Photographer" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106 128" xml:space="preserve">
+	<title>Bjarne Varöystrand - Photographer</title>
+	<desc>The new logo for Baldurs Photography in Lysekil</desc>
+	<defs>
+		<style>
+			.cls-1{fill:#328ed7;}
+			.cls-2{fill:#353e43;}
+			#bv{fill-rule:evenodd;}
+		</style>
+	</defs>
+	<g id="bv" fill-rule="evenodd" transform="translate(-627.625 -713.938)">
+		<path id="letter_b" class="cls-2" fill="#353e43" d="M714.433 778.9a.219.219 0 0 0-.375-.045l-12.683 16.69a.848.848 0 0 0-.147.465s.014.346.014.651a28.443 28.443 0 1 1-12.664-23.653.407.407 0 0 0 .552-.091l9.7-12.749a.421.421 0 0 0-.091-.6 44.932 44.932 0 0 0-53 .925v-36.01a10.545 10.545 0 0 0-10.539-10.551h-6.429a1.145 1.145 0 0 0-1.144 1.146l.008 81.577a45.22 45.22 0 1 0 86.798-17.755z"/>
+		<path id="letter_v" class="cls-1" fill="#328ed7" d="M710.79 750.315l-34.532 45.4a.743.743 0 0 0 0 .891l7.635 10.321a2.734 2.734 0 0 0 4.361.007l44.81-58.975a.629.629 0 0 0-.5-1.011h-14.992a8.52 8.52 0 0 0-6.782 3.367zm-29.713 58.87l-22.158-29.871a.265.265 0 0 0-.373-.045 21.682 21.682 0 0 0-8.226 16.109.7.7 0 0 0 .14.464c5.388 7.229 11.779 15.911 13.446 18.122a12.03 12.03 0 0 0 19.211.006l1.985-2.628a5.378 5.378 0 0 1-4.025-2.157z"/>
+	</g>
+</svg>
